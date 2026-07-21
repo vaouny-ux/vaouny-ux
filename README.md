@@ -4,7 +4,7 @@
 
 * 💻 Second-year Computer Science student passionate about Data Science and AI.
 * 🎓 Currently interning at **FlyRank AI** & continuously expanding my ML workflows.
-* 🛠️ Experienced in Python, Data Analytics, Model Evaluation, and Front-End Development.
+* 🛠️ Experienced in Python, ai tools,notebooklm
 
 ---
 
