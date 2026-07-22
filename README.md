@@ -1,4 +1,4 @@
-# Hi there, I'm Verena Aouny 👋
+# Hi, I'm Verena👋
 
 ### 🤖 Machine Learning & Data Science Enthusiast | CS Student
 
